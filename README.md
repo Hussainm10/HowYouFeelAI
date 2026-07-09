@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
-<h1 align="center">MindChat GPT</h1>
+<h1 align="center">HowYouFeelAI</h1>
 
 <p align="center">
   <strong>An AI-powered mental wellness companion — talk about how you feel, get thoughtful responses</strong>
@@ -22,7 +22,7 @@
 
 ## What It Does
 
-MindChat GPT is a conversational AI tool designed to help you explore and express your mental state. Simply describe how you're feeling, and the AI will respond with thoughtful, supportive messages.
+HowYouFeelAI is a conversational AI tool designed to help you explore and express your mental state. Simply describe how you're feeling, and the AI will respond with thoughtful, supportive messages.
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
